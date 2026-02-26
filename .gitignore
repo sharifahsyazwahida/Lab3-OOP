@@ -1,0 +1,54 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.swp
+*.swo
+*.*sdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs
+*.log
